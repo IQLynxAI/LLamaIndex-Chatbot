@@ -1,1 +1,1 @@
-# LLamaIndex-Chatbot
+# llama-index-chatbot
